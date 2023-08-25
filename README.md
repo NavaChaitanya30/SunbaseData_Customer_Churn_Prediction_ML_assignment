@@ -55,7 +55,8 @@ The customer churn prediction model can be deployed using various methods:
 - Locally: The Flask app provides a simple way to run the model locally on your machine.
 - GitHub Pages: You can deploy the front-end part of the app to GitHub Pages for easy access.
 - Cloud Services: Platforms like Heroku, AWS, or Azure can be used for more advanced deployments.
-
+**Docker Deployment**
+-Build the Docker image:`docker pull navachaitanya30/sunbasedata`
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or improvements, please feel free to open an issue or submit a pull request.
